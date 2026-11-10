@@ -1,0 +1,4 @@
+order_id,supplier,product,quantity,price
+PO001,ABC Supplies,Juice,100,10
+PO002,ABC Supplies,Water,50,8
+PO003,Fresh Goods,Milk,80,12
